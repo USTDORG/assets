@@ -1,0 +1,11 @@
+{
+  "name": "Universal Stable Token Distribution",
+  "symbol": "USTD",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "USTD Stablecoin pegged to 1 USD",
+  "website": "",
+  "explorer": "https://bscscan.com/token/0xf28C2b64198f75B682c8f261961e10349f26C2eA",
+  "status": "active",
+  "id": "0xf28C2b64198f75B682c8f261961e10349f26C2eA"
+}
