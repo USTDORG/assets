@@ -9,7 +9,7 @@
   "status": "active",
   "id": "0xf28C2b64198f75B682c8f261961e10349f26C2eA",
   "links": [
-    { "name": "telegram", "url": "https://t.me/ustdofficiall" },
+    { "name": "telegram_news", "url": "https://t.me/ustdofficiall" },
     { "name": "website", "url": "https://classy-gaufre-2337fd.netlify.app" }
   ],
   "tags": ["stablecoin"]
